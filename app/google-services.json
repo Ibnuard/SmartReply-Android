@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "550030796951",
+    "firebase_url": "https://remote-config-app-1d549.firebaseio.com",
+    "project_id": "remote-config-app-1d549",
+    "storage_bucket": "remote-config-app-1d549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550030796951:android:29d1e317ecb11c232b61d2",
+        "android_client_info": {
+          "package_name": "com.telkomschools.remoteconfigfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550030796951-qj5q61ncdr6n0l515jk8pq1cljavdb0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLV5W6y2b_JzAmBCvabZRfu5FyW2XoPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550030796951-qj5q61ncdr6n0l515jk8pq1cljavdb0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550030796951:android:7b4ddee402a680112b61d2",
+        "android_client_info": {
+          "package_name": "com.telkomschools.smart_reply_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550030796951-qj5q61ncdr6n0l515jk8pq1cljavdb0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLV5W6y2b_JzAmBCvabZRfu5FyW2XoPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550030796951-qj5q61ncdr6n0l515jk8pq1cljavdb0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
